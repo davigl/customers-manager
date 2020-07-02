@@ -39,7 +39,7 @@ Every customer must have a name and e-mail and it must be possible to mark it in
 
 ## 👀 Preview
 
-This project was made with 2 days due to some problems with the plataform that delivers the test.
+This project was made with 2 days due to some problems with the plataform that delivers the test. Check live [Customers Manager](http://customers-manager.surge.sh/#/)
 
 ![](https://i.imgur.com/eM8DbqA.gif)
 
