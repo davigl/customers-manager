@@ -1,0 +1,18 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  username: <%= ENV["POSTGRES_LOCAL_USERNAME"] %>
+  password: <%= ENV["POSTGRES_LOCAL_PASSWORD"] %>
+
+development:
+  <<: *default
+  database: ignicao-api
+test:
+  <<: *default
+  database: ignicao-api_test
+production:
+  <<: *default
+  database: ignicao-api_production
+  username: ignicao-api
+  password: <%= ENV['IGNICAO-API_DATABASE_PASSWORD'] %>
