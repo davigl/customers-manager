@@ -39,7 +39,7 @@ Every customer must have a name and e-mail and it must be possible to mark it in
 
 ## 👀 Preview
 
-Project builded with 2 days.
+This project was made with 2 days due to some problems with the plataform that delivers the test.
 
 ![](https://i.imgur.com/eM8DbqA.gif)
 
