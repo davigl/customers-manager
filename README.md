@@ -86,7 +86,6 @@ $ cd client && yarn
 $ yarn start
 
 # Running Server
-
 $ cd server && rails s -p 3001
 ```
 
