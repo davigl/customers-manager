@@ -3,7 +3,7 @@ import axios from 'axios';
 import { getToken, logout } from './auth';
 
 const api = axios.create({
-  baseURL: 'http://localhost:3001/api/v1'
+  baseURL: 'http://ignicao-backend.herokuapp.com/api/v1'
 });
 
 api.interceptors.request.use((config) => {

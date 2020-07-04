@@ -72,7 +72,7 @@ export default function SignupForm() {
     <Styled.FormWrapper onSubmit={handleSubmit} ref={formRef}>
       <ToastContainer />
       <HeaderForm
-        title="Customers Managerl"
+        title="Customers Manager"
         subtitle="Cadastro"
         description="Você precisa inserir suas credenciais abaixo para entrar no sistema."
         color="secondary"
