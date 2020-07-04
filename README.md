@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="logo" src="https://i.imgur.com/4Uou8tK.png" width="200"/>
+  <img alt="logo" src="https://i.imgur.com/2tC0s7K.png" width="400"/>
   <br>
 </h1>
 
@@ -39,7 +39,7 @@ Every customer must have a name and e-mail and it must be possible to mark it in
 
 ## 👀 Preview
 
-Project builded with 2 days.
+This project was made with 2 days due to some problems with the plataform that delivers the test. Check live [Customers Manager](http://customers-manager.surge.sh/#/)
 
 ![](https://i.imgur.com/eM8DbqA.gif)
 
@@ -86,7 +86,6 @@ $ cd client && yarn
 $ yarn start
 
 # Running Server
-
 $ cd server && rails s -p 3001
 ```
 
